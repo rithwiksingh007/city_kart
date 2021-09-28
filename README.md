@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run this command inside my-app folder:
 
+### `npm i` followed by 
+### `npm i json-server` then 
 ### `npm run Rest-products`
 
 parallely u can open another tab in terminal and run this command
